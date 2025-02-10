@@ -1,2 +1,1 @@
-This is a simple task using HTML + CSS only .....
-Demo :- https://github.com/bnabas50/html-css-project-001
+This is a simple task using HTML + CSS only || Demo : (https://bnabas50.github.io/html-css-project-001/)
